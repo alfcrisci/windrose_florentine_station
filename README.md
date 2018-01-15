@@ -1,6 +1,11 @@
 # Wind data of florentine station
 
 
+
+[![DOI](https://zenodo.org/badge/117538147.svg)](https://zenodo.org/badge/latestdoi/117538147)
+
+
+
 Wind data of several weather station to support tree damages investigations.
 Data sets gives annual and seasonal windplot roses. Wind data summaries by sectors of wind provenience
 ( Mean, Max,Median and Quantile95). Futher the 500th maximum records of gust are also extracted.
